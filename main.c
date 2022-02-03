@@ -3,11 +3,8 @@
 
 int main()
 {
-    int a = 100;
-    int b = 50;
-    int soma;
-    printf("Hello world!\n");
-    soma = a + b;
-    printf("Soma = %d\n",soma);
+    printf("Alterado!\n");
+    printf("Alterado!\n");
+    printf("Alteado!\n");
     return 0;
 }
