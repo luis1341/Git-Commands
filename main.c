@@ -3,8 +3,8 @@
 
 int main()
 {
-    printf("Alterado!\n");
-    printf("Alterado!\n");
-    printf("Alteado!\n");
+    printf("Alterado! Por lmigcorreia (xxxxxx@gmail.com) \n");
+    printf("Alterado! Por lmigcorreia (xxxxxx@gmail.com) \n");
+    printf("Alterado! Por lmigcorreia (xxxxxx@gmail.com) \n");
     return 0;
 }
